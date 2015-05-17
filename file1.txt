@@ -4,6 +4,8 @@
 <body>
 <p>1st paragraph</p>
 
+<p> new paragraph</p>
+
 </body>
 </head>
 </html>
